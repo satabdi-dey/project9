@@ -7,7 +7,7 @@
 - I apply grid and flex-box here. this is the most challenging part of this project. 
 
 ---
-[Diployed link](
+[Diployed link](https://project9-developer-landingpage.netlify.app/
 )
 
 ---
