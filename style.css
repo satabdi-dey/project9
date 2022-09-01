@@ -272,5 +272,7 @@ flex-direction: column;
     .blog-heading{
       display: none;
     }
-  
+  nav{
+    padding-right: 2vh;
+  }
 }
