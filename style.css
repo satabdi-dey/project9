@@ -110,7 +110,6 @@ p{
 .blog-cards{
   display: flex;
   justify-content: center;  
-  height: 50vh;
   margin-bottom: 10%;
 }
 .blog-card{
@@ -126,6 +125,7 @@ p{
   position: relative;
   top: 35vh;
   right: 15vw;
+  display: none;
 }
 .blog-author{
   position: relative;
@@ -133,6 +133,7 @@ p{
   right: 15vh;
   width: 20vh;
   font-size: 15px;
+  display: none;
   }
 
 .faq-section{
@@ -228,9 +229,10 @@ ul{
   .blog-author{
     display: none;
     }
+    
 
 }
-@media screen and (max-width: 1080px){
+@media screen and (max-width: 1100px){
   .header-image{
     display: none;
   }
