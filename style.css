@@ -111,6 +111,7 @@ p{
   display: flex;
   justify-content: center;  
   margin-bottom: 10%;
+  gap: 5%;
 }
 .blog-card{
   display: flex;
@@ -232,7 +233,7 @@ ul{
     
 
 }
-@media screen and (max-width: 1100px){
+@media screen and (max-width: 1150px){
   .header-image{
     display: none;
   }
